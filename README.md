@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h3 align="center">When I'm not following up on muscle cars, you'll find me bashing away at my keyboard as I explore the world of computer programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingmaina&label=Profile%20views&color=0e75b6&style=flat" alt="kingmaina" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingMaina](https://github.com/KingMaina)
 
-- 💬 Ask me about **JavaScript, Python, React, Data Analysis, Natural Language Processing, Web Design**
+- 💬 Ask me about **JavaScript, Python, React, Data Analysis, Natural Language Processing and Web Design**
 
 - 📫 How to reach me **m.maina.andrew@gmail.com**
 
