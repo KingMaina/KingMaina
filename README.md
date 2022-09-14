@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingmaina" alt="kingmaina" /></a> </p>
 
-- 🔭 I’m currently working on [Helisense AI web app](https://github.com/KingMaina/HeLisenseAPI)
+- 🔭 I’m currently working on [CollaCode-remake of the original real-time pair programming web app](https://github.com/KingMaina/CollaCode-Remake)
 
-- 🌱 I’m currently learning **JavaScript's advanced concepts(closures etc.), building Design Systems(UI/UX), Python for Data Analysis and also Testing web applications**
+- 🌱 I’m currently learning **JavaScript's advanced concepts(closures etc.), building Design Systems(UI/UX), and Python for Data Analysis**
 
-- 👯 I’m looking to collaborate on **any open source project to expand my skills**
+- 👯 I’m looking to collaborate on **any open source project to expand my collaborative skills**
 
 - 🤝 I’m looking for help with [Helisense frontend app(React)](https://github.com/KingMaina/HeLisense-Frontend)
 
