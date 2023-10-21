@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingmaina" alt="kingmaina" /></a> </p>
 
-- 🔭 I’m currently working on [CollaCode-remake of the original real-time pair programming web app](https://github.com/KingMaina/CollaCode-Remake)
+- 🔭 I’m currently working on Data Analysis using Python and participating in the ALX SE program
 
-- 🌱 I’m currently learning **JavaScript's advanced concepts(closures etc.), building Design Systems(UI/UX), and Python for Data Analysis**
+- 🌱 I’m currently learning **Python for Data Analysis, Web and API testing**
 
 - 👯 I’m looking to collaborate on **any open source project to expand my collaborative skills**
 
-- 🤝 I’m looking for help with [Helisense frontend app(React)](https://github.com/KingMaina/HeLisense-Frontend)
+- 🤝 I’m looking for help with *Nothing a the moment*
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingMaina](https://github.com/KingMaina)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/KingMaina](https://github.com/KingMaina)
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**[Find out here](https://education.nationalgeographic.org/resource/worlds-first-computer-bug/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
